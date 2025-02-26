@@ -4,9 +4,9 @@ title: Welcome to litoqu's site
 
 # 工作经历
 
-<img src="https://i-blog.csdnimg.cn/direct/f50ad3f9c26b42358f7d82635368d2b1.png" width="10%" height="10%" /> **GTS软件研发管理部**· AI工程师  | **工作时间**：2025.04.07 至今
+<img src="Huawei-Logo-2006-2018.png" width="10%" height="10%" /> **GTS软件研发管理部**· AI工程师  | **工作时间**：2025.04.07 至今
 
-<img src="https://i-blog.csdnimg.cn/direct/cfef35c8445a4d09a3ff07f6c3c23cb1.jpeg" width="12%" height="10%" /> **PCG-AI技术中心** · 多模态算法实习生  | **工作时间**：2024.04.13 至 2024.8.31
+<img src="R.jpg" width="12%" height="10%" /> **PCG-AI技术中心** · 多模态算法实习生  | **工作时间**：2024.04.13 至 2024.8.31
 
 研究方向： **MultiModal, Large Language Models**, Diffusion models, Swarm Intenllengence
 
