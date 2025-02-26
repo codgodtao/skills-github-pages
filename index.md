@@ -18,24 +18,23 @@ title: Welcome to litoqu's site
 
  - CrossDiff: Exploring Self-Supervised Representation of Pansharpening via Cross-Predictive Diffusion Model
     YH Xing, **LT. Qu**, SZ. Zhang, K. Zhang, YN. Zhang and L. Bruzzong
-    **IEEE TRANSACTIONS ON IMAGE PROCESSIN（学生一作）**[
-    \[pdf\]](https://ieeexplore.ieee.org/document/10685062)[\[code\]](https://github.com/codgodtao/CrossDiff)
+    **IEEE TRANSACTIONS ON IMAGE PROCESSIN（学生一作）**
+    [\[pdf\]](https://ieeexplore.ieee.org/document/10685062)[\[code\]](https://github.com/codgodtao/CrossDiff)
 
-    
 - Explicit and size-adaptive PSO-based feature selection for classification
-**Litao Qu**, Weibin He, Jianfei Li, Hua Zhang, Cheng Yang, Bo Xie
-**Swarm and Evolutionary Computation,Volume 77,2023**（**高被引论文，第一作者**）[
-\[pdf\]](https://www.sciencedirect.com/science/article/abs/pii/S2210650223000238)[[code]](https://github.com/codgodtao/ESAPSO)
+  **Litao Qu**, Weibin He, Jianfei Li, Hua Zhang, Cheng Yang, Bo Xie
+  **Swarm and Evolutionary Computation,Volume 77,2023**（**高被引论文，第一作者**）
+  [\[pdf\]](https://www.sciencedirect.com/science/article/abs/pii/S2210650223000238)[[code]](https://github.com/codgodtao/ESAPSO)
 
 - Empower Generalizability for Pansharpening Through Text-Modulated Diffusion Model
 YH Xing,**LT. Qu**, SZ. Zhang, JP. Feng, XW. Zhang and YN. Zhang.
-**IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING, vol. 62, pp. 1-12, 2024.（学生一作）**[
-\[pdf\]](https://ieeexplore.ieee.org/document/10613790)[\[code\]](https://github.com/codgodtao/TMDiff)
+**IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING, vol. 62, pp. 1-12, 2024.（学生一作）**
+  [\[pdf\]](https://ieeexplore.ieee.org/document/10613790)[\[code\]](https://github.com/codgodtao/TMDiff)
 
 - Complementary Fusion Network Based on Frequency Hybrid Attention for Pansharpening
-YH Xing, **LT. Qu**, K. Zhang, Y. Zhang, XW. Zhang and YN. Zhang.
-**ICASSP 2024 - 2024（学生一作）**[
-\[pdf\]](https://ieeexplore.ieee.org/abstract/document/10446416)[code]
+  YH Xing, **LT. Qu**, K. Zhang, Y. Zhang, XW. Zhang and YN. Zhang.
+  **ICASSP 2024 - 2024（学生一作）**
+  [\[pdf\]](https://ieeexplore.ieee.org/abstract/document/10446416)[code]
 
 # 博客地址
 [谷歌学术](https://scholar.google.com.hk/citations?user=zfAwcIkAAAAJ&hl=zh-CN)
@@ -51,8 +50,7 @@ YH Xing, **LT. Qu**, K. Zhang, Y. Zhang, XW. Zhang and YN. Zhang.
 
 - 一种基于互补融合网络的全色锐化方法，国家发明专利
 
-
-奖项
+- 三维发屋，软件著作权
 
 # 联系方式
 321227312@qq.com
