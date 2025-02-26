@@ -11,6 +11,7 @@ title: Welcome to litoqu's site
 研究方向： **MultiModal, Large Language Models**, Diffusion models, Swarm Intenllengence
 
 # 研究成果
+##### 注： 学生一作中 个人贡献>=80%
 - Dual-Granularity Semantic Guided Sparse Routing Diffusion Model for General Pansharpening
   YH Xing, **LT. Qu**, SZ. Zhang, K. Zhang, YN. Zhang and L. Bruzzong
   **CVPR 2025（学生一作）**
@@ -35,6 +36,7 @@ YH Xing,**LT. Qu**, SZ. Zhang, JP. Feng, XW. Zhang and YN. Zhang.
   YH Xing, **LT. Qu**, K. Zhang, Y. Zhang, XW. Zhang and YN. Zhang.
   **ICASSP 2024 - 2024（学生一作）**
   [\[pdf\]](https://ieeexplore.ieee.org/abstract/document/10446416)[code]
+
 
 # 博客地址
 [谷歌学术](https://scholar.google.com.hk/citations?user=zfAwcIkAAAAJ&hl=zh-CN)
