@@ -6,7 +6,7 @@ title: Welcome to litoqu's site
 
 <img src="Huawei-Logo-2006-2018.png" width="10%" height="10%" /> **GTS软件研发管理部**· AI工程师     **工作时间**：2025.04.07 至今
 
-<img src="R.jpg" width="10%" height="10%" /> **PCG-AI技术中心** · 多模态算法实习生  **工作时间**：2024.04.13 至 2024.8.31
+<img src="R.jpg" width="10%" height="10%" /> **PCG-AI技术中心** · 算法实习生  **工作时间**：2024.04.13 至 2024.8.31
 
 研究方向： **MultiModal, Large Language Models**, Diffusion models, Swarm Intenllengence
 
