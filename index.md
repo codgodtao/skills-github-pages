@@ -4,9 +4,9 @@ title: Welcome to litoqu's site
 
 # 工作经历
 
-<img src="Huawei-Logo-2006-2018.png" width="10%" height="10%" /> **GTS软件研发管理部**· AI工程师  | **工作时间**：2025.04.07 至今
+<img src="Huawei-Logo-2006-2018.png" width="10%" height="10%" /> **GTS软件研发管理部**· AI工程师  **工作时间**：2025.04.07 至今
 
-<img src="R.jpg" width="12%" height="10%" /> **PCG-AI技术中心** · 多模态算法实习生  | **工作时间**：2024.04.13 至 2024.8.31
+<img src="R.jpg" width="12%" height="10%" /> **PCG-AI技术中心** · 多模态算法实习生  **工作时间**：2024.04.13 至 2024.8.31
 
 研究方向： **MultiModal, Large Language Models**, Diffusion models, Swarm Intenllengence
 
@@ -44,7 +44,7 @@ YH Xing,**LT. Qu**, SZ. Zhang, JP. Feng, XW. Zhang and YN. Zhang.
 # 其他成果
 - 一种基于条件扩散模型的全色锐化方法，国家发明专利
 
-- 一种基于交叉预测的多光谱与全色图像融合方法，国家发明专利已授权
+- 一种基于交叉预测的多光谱与全色图像融合方法，国家发明专利
 
 - 一种基于文本调制扩散模型的强泛化全色锐化方法，国家发明专利
 
