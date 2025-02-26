@@ -13,7 +13,7 @@ title: Welcome to litoqu's site
 # 研究成果
 - Dual-Granularity Semantic Guided Sparse Routing Diffusion Model for General Pansharpening
   YH Xing, **LT. Qu**, SZ. Zhang, K. Zhang, YN. Zhang and L. Bruzzong
-  **CVPR 2025 Oral（学生一作）**
+  **CVPR 2025（学生一作）**
   [pdf][\[code\]](https://github.com/codgodtao/SGDiff)
 
  - CrossDiff: Exploring Self-Supervised Representation of Pansharpening via Cross-Predictive Diffusion Model
@@ -26,6 +26,7 @@ title: Welcome to litoqu's site
 **Litao Qu**, Weibin He, Jianfei Li, Hua Zhang, Cheng Yang, Bo Xie
 **Swarm and Evolutionary Computation,Volume 77,2023**（**高被引论文，第一作者**）[
 \[pdf\]](https://www.sciencedirect.com/science/article/abs/pii/S2210650223000238)[[code]](https://github.com/codgodtao/ESAPSO)
+
 - Empower Generalizability for Pansharpening Through Text-Modulated Diffusion Model
 YH Xing,**LT. Qu**, SZ. Zhang, JP. Feng, XW. Zhang and YN. Zhang.
 **IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING, vol. 62, pp. 1-12, 2024.（学生一作）**[
@@ -38,10 +39,20 @@ YH Xing, **LT. Qu**, K. Zhang, Y. Zhang, XW. Zhang and YN. Zhang.
 
 # 博客地址
 [谷歌学术](https://scholar.google.com.hk/citations?user=zfAwcIkAAAAJ&hl=zh-CN)
+
 [csdn（学习记录与内容分享）](https://blog.csdn.net/python_vb?spm=1011.2415.3001.5343)
-[知乎（学习记录与内容分享）](https://blog.csdn.net/python_vb?spm=1011.2415.3001.5343)
-[小红书（学习记录与内容分享）](https://blog.csdn.net/python_vb?spm=1011.2415.3001.5343)
 
 # 其他成果
+- 一种基于条件扩散模型的全色锐化方法，国家发明专利
+
+- 一种基于交叉预测的多光谱与全色图像融合方法，国家发明专利已授权
+
+- 一种基于文本调制扩散模型的强泛化全色锐化方法，国家发明专利
+
+- 一种基于互补融合网络的全色锐化方法，国家发明专利
+
+
+奖项
 
 # 联系方式
+321227312@qq.com
