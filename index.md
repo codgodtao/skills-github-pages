@@ -10,13 +10,13 @@ title: Welcome to litoqu's site
 
 研究方向： **MultiModal, Large Language Models**, Diffusion models, Swarm Intenllengence
 
-# 研究成果
-##### 
+# News
 - Dual-Granularity Semantic Guided Sparse Routing Diffusion Model for General Pansharpening
   YH Xing, **LT. Qu**, SZ. Zhang, K. Zhang, YN. Zhang and L. Bruzzong
   **CVPR 2025（学生一作）**
   [pdf][\[code\]](https://github.com/codgodtao/SGDiff)
 
+# 研究成果
  - CrossDiff: Exploring Self-Supervised Representation of Pansharpening via Cross-Predictive Diffusion Model
     YH Xing, **LT. Qu**, SZ. Zhang, K. Zhang, YN. Zhang and L. Bruzzong
     **IEEE TRANSACTIONS ON IMAGE PROCESSIN（学生一作）**
