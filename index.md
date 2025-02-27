@@ -37,7 +37,9 @@ YH Xing,**LT. Qu**, SZ. Zhang, JP. Feng, XW. Zhang and YN. Zhang.
   **ICASSP 2024 - 2024（学生一作）**
   [\[pdf\]](https://ieeexplore.ieee.org/abstract/document/10446416)[code]
 
-
+# 教育背景
+  硕士毕业于西北工业大学ASGO实验室，师从**邢颖慧老师、张世周**老师，从事多源图像融合任务
+  本科毕业于浙江工商大学，师从**张华**老师
 # 博客地址
 [谷歌学术](https://scholar.google.com.hk/citations?user=zfAwcIkAAAAJ&hl=zh-CN)
 
